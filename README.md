@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey, I'm Cole!  👋
 
+I specialize in building startups and innovating products/services for companies. My background encompasses branding, market research, UX research, UX design, and front-end development for apps and websites.
+
+This versatility enables me to fulfill a range of roles across diverse projects and teams.
+
+I'm always open to new collaborations and interesting ideas, so feel free to reach out anytime for a chat!
 <!--
 **colebiehle/colebiehle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
