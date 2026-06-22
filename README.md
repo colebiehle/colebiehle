@@ -1,14 +1,14 @@
 ## Hey, I'm Cole!  👋
 
-I specialize in building startups and innovating products/services for companies. 
+I'm a product designer building human-AI products where the AI feels so seamless people forget it's there and just feel like they have superpowers.
 
-My background encompasses branding, market research, UX research, UX design, and development for apps and websites.
+I combine research, design, and development to build and test fast, until it's something people can't live without. Sitting between product, engineering, and business lets me drive product strategy, communicate value, and keep teams aligned.
 
-This versatility enables me to fulfill a range of roles across diverse projects and teams.
+Currently, I am interested in pushing human-AI collaboration into new paradigms for how those interactions happen, so they best serve the people in the loop.
 
-I'm always open to new collaborations and interesting ideas, so feel free to reach out anytime for a chat!
+Outside of my primary work, I enjoy teaching designers how to augment their processes, building my own tools, and developing startups around problems I care about. 
 
-:)
+If you're a student or early in your career, feel free to reach out for a chat!
 <!--
 **colebiehle/colebiehle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
